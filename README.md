@@ -99,7 +99,7 @@ Feel free to fork the repository, open issues, or submit pull requests.
 ## 📬 Contact
 
 * GitHub: https://github.com/engSalah-dot
-* LinkedIn: (Add your profile)
+* LinkedIn: www.linkedin.com/in/salah-ebied-3138241b1
 
 ---
 
